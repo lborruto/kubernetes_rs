@@ -22,9 +22,3 @@ Je dois être capable de deployer la même chose ET de lancer une tache de backu
 
 ### Votre Cluster doit se nommer : 
 ```[PNOM]ipi```
-
-# Installation k3d:
-
-> https://github.com/rancher/k3d
-
-[![asciicast](https://asciinema.org/a/JIgELGMGBydFVG3AK9VRwYaKD.svg)](https://asciinema.org/a/JIgELGMGBydFVG3AK9VRwYaKD)
