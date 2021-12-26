@@ -1,6 +1,6 @@
 # Consigne:
 
-En choisissant l'une des distributions suivantes:
+### En choisissant l'une des distributions suivantes:
 
 > https://github.com/k0sproject/k0s
 
@@ -20,4 +20,5 @@ En me transmettant les commandes et ou les fichiers que vous avez produits pour 
 
 Je dois être capable de deployer la même chose ET de lancer une tache de backup.
 
-Votre Cluster doit se nommer : > [PNOM]ipi
+Votre Cluster doit se nommer : 
+```[PNOM]ipi```
