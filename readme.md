@@ -1,10 +1,10 @@
 # Index:
 
-### - [Install Kubectl](https://github.com/lborruto/kubernetes_rs/blob/master/install_kubectl.md).
+### - [Install Kubectl](https://github.com/lborruto/kubernetes_rs/blob/master/install_kubectl.md)
 
-### - [Install k3s](https://github.com/lborruto/kubernetes_rs/blob/master/install_k3s.md).
+### - [Install k3s](https://github.com/lborruto/kubernetes_rs/blob/master/install_k3s.md)
 
-### - [Install k10](https://github.com/lborruto/kubernetes_rs/blob/master/install_k10.md).
+### - [Install k10](https://github.com/lborruto/kubernetes_rs/blob/master/install_k10.md)
 
 # Consigne:
 
@@ -16,7 +16,7 @@
 
 > https://kind.sigs.k8s.io/
 
- Déployer un cluster kubernetes avec a minima 1 master et 3 worker.
+ Déployer un cluster Kubernetes avec, à minima, 1 master et 3 worker.
 
 ### Installer au choix:
 
@@ -24,9 +24,6 @@
 
 > https://velero.io/
 
-En me transmettant les commandes et ou les fichiers que vous avez produits pour deployer ce cluster et deployer la solution de backup.
+Transmettre les commandes et ou les fichiers produits pour deployer ce cluster et deployer la solution de backup.
 
-Je dois être capable de deployer la même chose ET de lancer une tache de backup.
-
-### Votre Cluster doit se nommer : 
-```[PNOM]ipi```
+### Votre Cluster doit se nommer : ```[PNOM]ipi```
