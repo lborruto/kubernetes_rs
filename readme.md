@@ -1,3 +1,6 @@
+# Indexe:
+
+
 # Consigne:
 
 ### En choisissant l'une des distributions suivantes:
