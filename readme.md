@@ -1,5 +1,10 @@
-# Indexe:
+# Index:
 
+### - [Install Kubectl](https://github.com/lborruto/kubernetes_rs/blob/master/install_kubectl.md).
+
+### - [Install k3s](https://github.com/lborruto/kubernetes_rs/blob/master/install_k3s.md).
+
+### - [Install k10](https://github.com/lborruto/kubernetes_rs/blob/master/install_k10.md).
 
 # Consigne:
 
