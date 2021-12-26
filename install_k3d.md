@@ -2,4 +2,4 @@
 
 > https://github.com/rancher/k3d
 
-[![asciicast](https://asciinema.org/a/JIgELGMGBydFVG3AK9VRwYaKD.svg)](https://asciinema.org/a/JIgELGMGBydFVG3AK9VRwYaKD)
+[![asciicast](https://asciinema.org/a/3t4D0b5VCYmFkGEMNZZnGAnbQ.svg)](https://asciinema.org/a/3t4D0b5VCYmFkGEMNZZnGAnbQ)
