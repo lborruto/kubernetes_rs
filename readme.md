@@ -26,4 +26,4 @@
 
 Transmettre les commandes et ou les fichiers produits pour deployer ce cluster et deployer la solution de backup.
 
-### Votre Cluster doit se nommer : ```[PNOM]ipi```
+### Le cluster doit se nommer : ```[PNOM]ipi```
