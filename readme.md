@@ -6,6 +6,8 @@
 
 ### [Install k10](https://github.com/lborruto/kubernetes_rs/blob/master/install_k10.md)
 
+### [Install MongoDB](https://github.com/lborruto/kubernetes_rs/blob/master/install_mongodb.md)
+
 # Consigne:
 
 ### En choisissant l'une des distributions suivantes:
