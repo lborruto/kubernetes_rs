@@ -10,7 +10,7 @@
 
 ### [Configure logical backup](https://github.com/lborruto/kubernetes_rs/blob/master/logical_backup.md)
 
-> See the blueprint used : [mysql_bluepring.yaml](https://github.com/lborruto/kubernetes_rs/blob/master/mysql_blueprint.yaml)
+> See the blueprint used : [mysql_blueprint.yaml](https://github.com/lborruto/kubernetes_rs/blob/master/mysql_blueprint.yaml)
 
 > Create policies : [policy.png](https://github.com/lborruto/kubernetes_rs/blob/master/policy.png)
 
