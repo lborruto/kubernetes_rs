@@ -6,7 +6,12 @@
 
 ### [Install k10](https://github.com/lborruto/kubernetes_rs/blob/master/install_k10.md)
 
-### [Install MongoDB](https://github.com/lborruto/kubernetes_rs/blob/master/install_mongodb.md)
+### [Install mySQL](https://github.com/lborruto/kubernetes_rs/blob/master/install_mysql.md)
+
+### [Configure logical backup](https://github.com/lborruto/kubernetes_rs/blob/master/logical_backup.md)
+
+> See the blueprint used : [mysql_bluepring.yaml](https://github.com/lborruto/kubernetes_rs/blob/master/mysql_blueprint.yaml)
+
 
 # Consigne:
 
